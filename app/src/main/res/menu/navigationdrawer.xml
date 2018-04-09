@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_dashboard_black_24dp"/>
+
+    <item android:id="@+id/childrensection"
+        android:title="Children's Section"
+        android:icon="@drawable/babyicon"/>
+
+    <item android:id="@+id/mensclothes"
+        android:title="Men's Section"
+        android:icon="@drawable/menicon"/>
+
+    <item android:id="@+id/womensection"
+        android:title="Women's Section"
+        android:icon="@drawable/womenicon"/>
+
+    <item android:id="@+id/sportssection"
+        android:title="Sport wear Section"
+        android:icon="@drawable/sportsicon"/>
+
+    <item android:id="@+id/swimingsection"
+        android:title="Swim wear Section"
+        android:icon="@drawable/swimingicon"/>
+
+
+
+</menu>
